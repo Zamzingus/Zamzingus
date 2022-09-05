@@ -1,7 +1,6 @@
 ### FUCK YOU 👋
 
-<!--
-**Zamzingus/Zamzingus** is a ✨ _autistic (special)_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zamzingus/Zamzingus** is a ✨ _autistic (special)_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: with your hands idiot (also on 8kun im very active on the femboy board)
 - 😄 Pronouns: heli/copter
 - ⚡ Fun fact: i have a dick
---> what is this arrow for what
